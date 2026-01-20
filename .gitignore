@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# Виртуальное окружение
+venv/
+env/
+
+# Файлы настроек IDE
+.idea/
+.vscode/
+
+# Секреты и переменные окружения
+.env
+.env.local
+
+# SQLite БД 
+cinema_bot.db
